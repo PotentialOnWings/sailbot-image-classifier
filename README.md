@@ -15,4 +15,4 @@ Snapshot of result:
 
 ![running tests](https://raw.githubusercontent.com/PotentialOnWings/sailbot-image-classifier/master/runningtests.png)
 
-
+(Reference to test_images directory) Runs pictures with single subject with over 99% of confidence. Runs pictures with multiple objects as subject with over 90% confidence for the main subject, and is able to detect the secondary object as well.   
